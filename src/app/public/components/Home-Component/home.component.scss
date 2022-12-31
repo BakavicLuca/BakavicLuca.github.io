@@ -1,0 +1,19 @@
+.container{
+  height: 86.5vh;
+  background: #dfdfdf;
+}
+#add-button, #add-button button{
+  cursor:pointer;
+}
+#add-button button{
+  position: absolute;
+  bottom: 1rem;
+  right: 1rem;
+  font-size: 60px;
+  color: white;
+  width: 5rem;
+  aspect-ratio: 1/1;
+  border-radius: 50%;
+  background:linear-gradient(#4878b2,#638cbe);
+  border: none;
+}
